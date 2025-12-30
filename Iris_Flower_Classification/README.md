@@ -262,27 +262,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+**Saurabh**
+- GitHub: [@bit-saurabh](https://github.com/bit-saurabh)
 
----
-
-## 🙏 Acknowledgments
-
-- **R.A. Fisher** for creating the Iris dataset (1936)
-- **UCI Machine Learning Repository** for hosting the dataset
-- **Scikit-learn** community for excellent documentation
-- All contributors and supporters of this project
-
----
-
-## 📚 References
-
-1. Fisher, R.A. (1936). "The use of multiple measurements in taxonomic problems"
-2. [UCI Machine Learning Repository - Iris Dataset](https://archive.ics.uci.edu/ml/datasets/iris)
-3. [Scikit-learn Documentation](https://scikit-learn.org/stable/)
 
 ---
 
