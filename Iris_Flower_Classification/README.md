@@ -292,6 +292,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ and Python**
 
-[Report Bug](https://github.com/bit-saurabh/CodeAlpha_tasks/Iris_Flower_Classification/issues) · [Request Feature](https://github.com/bit-saurabh/CodeAlpha_tasks/Iris_Flower_Classification/issues)
 
 </div>
