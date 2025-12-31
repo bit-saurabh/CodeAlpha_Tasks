@@ -343,7 +343,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Saurabh**
-- GitHub: [@yourusername](https://github.com/bit-saurabh)
+- GitHub: [@bit-saurabh](https://github.com/bit-saurabh)
 
 ---
 
